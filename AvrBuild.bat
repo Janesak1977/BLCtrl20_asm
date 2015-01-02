@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Osobne_data\AVRProjects\BLCtrl20_ASM\labels.tmp" -fI -W+ie -C V2E -o "C:\Osobne_data\AVRProjects\BLCtrl20_ASM\TestASMProj.hex" -d "C:\Osobne_data\AVRProjects\BLCtrl20_ASM\TestASMProj.obj" -e "C:\Osobne_data\AVRProjects\BLCtrl20_ASM\TestASMProj.eep" -m "C:\Osobne_data\AVRProjects\BLCtrl20_ASM\TestASMProj.map" "C:\Osobne_data\AVRProjects\BLCtrl20_ASM\TestASMProj.asm"
